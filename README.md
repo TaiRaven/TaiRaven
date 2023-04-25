@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @TaiRaven
+- 🌱 I’m currently learning ServiceNow Development
